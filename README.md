@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-brightgreen?style=for-the-badge&logo=vercel)](https://varun-portfolio-five-theta.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-brightgreen?style=for-the-badge&logo=vercel)](https://my-portfolio-varunvisoriya.vercel.app)
   [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/varuunn15/My-Portfolio)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Varun%20Visoriya)
 
@@ -15,7 +15,7 @@ It highlights my experience as an AI & Data Science B.Tech student at MITS-DU an
 ---
 
 ## 🌟 Live Website
-👉 **Explore the portfolio live at: [https://varun-portfolio-five-theta.vercel.app](https://varun-portfolio-five-theta.vercel.app)**
+👉 **Explore the portfolio live at: [https://my-portfolio-varunvisoriya.vercel.app](https://my-portfolio-varunvisoriya.vercel.app)**
 
 ---
 
