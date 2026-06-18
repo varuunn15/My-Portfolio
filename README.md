@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This is a premium, ultra-modern, fully
 It highlights my experience as an AI & Data Science B.Tech student and a Full Stack MERN developer.
 
 ## 🚀 Live Demo
-Visit the live portfolio here: **[https://superxgen.vercel.app](https://superxgen.vercel.app)** *(Note: Change to your portfolio deploy URL after hosting)*
+Visit the live portfolio here: **[https://varun-portfolio-five-theta.vercel.app](https://varun-portfolio-five-theta.vercel.app)**
 
 ---
 
